@@ -62,27 +62,31 @@ Designed with clean visuals and slicers, this dashboard helps stakeholders make 
 
 ## 📊 Key Insights
 
-- 👥 Total patients: 4,338 (2023) → 4,878 (2024)
-- ⏳ Average wait time: 35.5 minutes
-- 🚻 Gender distribution: fairly balanced in both years
-- 🧑‍⚕️ Most visited department: General
-- 📈 Most common age group: 20–29 years
-- 🏥 Admission rate slightly dropped from 49.8% to 49.1%
+- 👥 **Total Customers**: 30  
+- 🧾 **Total Orders**: 2,746  
+- 🛒 **Total Quantity Ordered**: 15,000 items  
+- 🍽️ **Most Ordered Food Type**: Main Course (1,257 orders)  
+- 🥤 **Least Ordered**: Appetizer (16 orders)  
+- 🛍️ **Customer Types**: 67% Regular, 33% Gold  
+- 📦 **Order Status**: 94% Delivered, 6% Cancelled  
+- 💳 **Top Payment Method**: UPI (1,719 orders)  
+- 🍛 **Popular Cuisine**: North Indian  
 
  ## 🛠️ Tools Used
 
-- Microsoft Excel – Pivot tables, charts, and slicers 
-- CSV Dataset – Raw ER data
+- **Power BI Desktop** – Dashboard creation
+- **DAX** – Calculated columns and measures
+- **Power Query** – Data cleaning and transformation
+- **CSV Dataset** – Source data
 
 ## 🔮 Future Scope
 
-- Publish as an interactive web dashboard using Power BI
-
-- Add filters for age group, year, and department
-
-- Automate real-time data refresh using Power Query
+- Add **Profit and Revenue KPIs**
+- Include **Time of Day Analysis**
+- Add **Branch-wise Analysis** (if multi-branch)
+- Embed as a **Web Report (Power BI Service)**
 
 
 ## 👨‍💻 Contributors
 
-- **Ujjal** - *Developer*
+- **Ujjal Kumar Dey** – *Power BI Developer*
