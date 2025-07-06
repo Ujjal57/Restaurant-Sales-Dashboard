@@ -25,36 +25,46 @@ Designed with clean visuals and slicers, this dashboard helps stakeholders make 
 │── source.png         # Screenshot of raw data structure (optional)
 │── README.md          # Project documentation (this file)
 
-## 🚀 How to Run the Project
-
-This dashboard was built using **Microsoft Excel**. You can explore it by following these steps:
-
-### 🔹 Step 1: Download the Files
-
-Option 1:  
-Click on the green Code button in this GitHub repo and select:
-
-bash
-Download ZIP
+## 🚀 How to Use the Dashboard
 
 
-Option 2: Clone the repository:
-bash
-git clone https://github.com/yourusername/Hospital-Emergency-Room-Dashboard.git
-cd Hospital-Emergency-Room-Dashboard
+> ⚠️ The Power BI `.pbix` file is not included in this repository to prevent unauthorized use.  
+> However, you can recreate the dashboard using the raw Excel files provided.
+> 
+### 🔹 Step 1: Prepare the Dataset in Power BI
 
+1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+2. Open Power BI and click on **"Get Data" → "Folder"**.
+3. Browse to the `Orders/` folder containing monthly Excel files (Jan.xlsx, Feb.xlsx, Mar.xlsx, Apr.xlsx).
+4. Load and combine the data using **Power Query**.
 
-### 🔹 Step 2: Open the Excel Dashboard
+> 💡 Power BI will automatically detect and combine all the sheets into a single unified dataset.
 
-1. Open the file Dashboard.xlsx using Microsoft Excel (2016 or later recommended).
-2. Go to the Dashboard sheet to view the visual charts and KPIs.
-3. Use slicers (if available) to filter data by year, gender, department, etc.
-4. Optionally, view the pivot table logic in the PivotTable or Data sheets.
+### 🔹 Step 2: Build the Dashboard (Using Power BI)
 
-### 🔹 Step 3: Explore the Dataset
+Once the data is loaded:
 
-1. Open Source.csv to view the raw data used for the dashboard.
-2. Refer to pivot.png or source.png for screenshots of how the pivot logic and data structure were set up.
+- Clean and transform columns using **Power Query Editor** (e.g., remove blanks, fix headers).
+- Create relationships and a data model if needed.
+- Use **DAX** to calculate:
+  - Total Customers
+  - Total Orders
+  - Quantity Stats
+  - Delivery Status %
+  - Customer Types (Gold vs Regular)
+  - Payment Method Breakdown
+- Build visuals:
+  - Bar Charts for Food Type and Payment Methods
+  - Pie/Donut Charts for Customer Types and Order Status
+  - Gauge Chart for Total Quantity
+  - Treemap for Cuisine Categories
+  - Date Range Slicer for filtering (e.g., Jan–Apr)
+
+### 🔹 Step 3: Customize and Publish
+
+- Apply themes, title cards, and shadow effects for a clean look.
+- Export as PDF or publish to **Power BI Service** (if needed).
+
 
 ## 🖼️ Screenshots
 
