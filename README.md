@@ -46,17 +46,17 @@ Designed with clean visuals and slicers, this dashboard helps stakeholders make 
 </p>
 
 <p align="center">
-  <img src="pivot.png" alt="Home Page" width="700"/>
-  <br><em>Pivot Tables</em>
+  <img src="img/vis.png" alt="Home Page" width="700"/>
+  <br><em>Data Visualization</em>
 </p>
 
 <p align="center">
-  <img src="transform.png" alt="Info Page" width="700"/>
+  <img src="img/table.png" alt="Info Page" width="700"/>
   <br><em>Transformed Data</em>
 </p>
 
 <p align="center">
-  <img src="source.png" alt="Info Page" width="700"/>
+  <img src="img/raw.png" alt="Info Page" width="700"/>
   <br><em>Raw Data</em>
 </p>
 
