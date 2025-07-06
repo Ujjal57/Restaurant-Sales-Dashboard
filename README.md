@@ -41,7 +41,7 @@ Designed with clean visuals and slicers, this dashboard helps stakeholders make 
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="img/main,jpg" alt="Intro Animation" width="700"/>
+  <img src="img/main.jpg" alt="Intro Animation" width="700"/>
   <br><em>Dashboard</em>
 </p>
 
