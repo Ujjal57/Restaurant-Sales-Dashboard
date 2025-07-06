@@ -16,6 +16,7 @@ Designed with clean visuals and slicers, this dashboard helps stakeholders make 
 - 📆 Date Range Slicer for dynamic filtering
 
 ## 📁 Project Structure
+```
 📁 Restaurant-Sales-Dashboard
 │── Dashboard.png      # Main dashboard preview image
 │── Dashboard.xlsx     # Excel file with pivot tables and dashboard
@@ -24,6 +25,8 @@ Designed with clean visuals and slicers, this dashboard helps stakeholders make 
 │── Source.csv         # Raw data used for the analysis
 │── source.png         # Screenshot of raw data structure (optional)
 │── README.md          # Project documentation (this file)
+
+```
 
 ## 🚀 🚀 How to Use
 
