@@ -18,13 +18,14 @@ Designed with clean visuals and slicers, this dashboard helps stakeholders make 
 ## 📁 Project Structure
 ```
 📁 Restaurant-Sales-Dashboard
-│── Dashboard.png      # Main dashboard preview image
-│── Dashboard.xlsx     # Excel file with pivot tables and dashboard
-│── main.png           # Duplicate or alternate view of dashboard (optional)
-│── pivot.png          # Screenshot of pivot table setup
-│── Source.csv         # Raw data used for the analysis
-│── source.png         # Screenshot of raw data structure (optional)
-│── README.md          # Project documentation (this file)
+├── Orders Data/               # Monthly Excel files (raw data)
+│ ├── January_23.xlsx
+│ ├── February_23.xlsx
+│ ├── March_23.xlsx
+│ └── April_23.xlsx
+└── img/                       # Dashboard image(s)
+│── README.md                  # Project documentation (this file)
+│── Raw.xlsx                   # Combined raw data
 
 ```
 
