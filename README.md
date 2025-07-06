@@ -25,46 +25,18 @@ Designed with clean visuals and slicers, this dashboard helps stakeholders make 
 │── source.png         # Screenshot of raw data structure (optional)
 │── README.md          # Project documentation (this file)
 
-## 🚀 How to Use the Dashboard
+## 🚀 🚀 How to Use
 
 
 > ⚠️ The Power BI `.pbix` file is not included in this repository to prevent unauthorized use.  
 > However, you can recreate the dashboard using the raw Excel files provided.
-> 
-### 🔹 Step 1: Prepare the Dataset in Power BI
-
+ 
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-2. Open Power BI and click on **"Get Data" → "Folder"**.
-3. Browse to the `Orders/` folder containing monthly Excel files (Jan.xlsx, Feb.xlsx, Mar.xlsx, Apr.xlsx).
-4. Load and combine the data using **Power Query**.
-
-> 💡 Power BI will automatically detect and combine all the sheets into a single unified dataset.
-
-### 🔹 Step 2: Build the Dashboard (Using Power BI)
-
-Once the data is loaded:
-
-- Clean and transform columns using **Power Query Editor** (e.g., remove blanks, fix headers).
-- Create relationships and a data model if needed.
-- Use **DAX** to calculate:
-  - Total Customers
-  - Total Orders
-  - Quantity Stats
-  - Delivery Status %
-  - Customer Types (Gold vs Regular)
-  - Payment Method Breakdown
-- Build visuals:
-  - Bar Charts for Food Type and Payment Methods
-  - Pie/Donut Charts for Customer Types and Order Status
-  - Gauge Chart for Total Quantity
-  - Treemap for Cuisine Categories
-  - Date Range Slicer for filtering (e.g., Jan–Apr)
-
-### 🔹 Step 3: Customize and Publish
-
-- Apply themes, title cards, and shadow effects for a clean look.
-- Export as PDF or publish to **Power BI Service** (if needed).
-
+2. Open Power BI.
+3. Go to **Home → Get Data → raw.xlsx file.
+4. Go to **Home → Get Data → Folder** and select the `Orders Data/` directory.
+5. Load and combine the Excel files.
+6. Clean, model, and build your own dashboard using Power BI tools.
 
 ## 🖼️ Screenshots
 
