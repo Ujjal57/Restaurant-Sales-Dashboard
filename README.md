@@ -41,7 +41,7 @@ Designed with clean visuals and slicers, this dashboard helps stakeholders make 
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="main.png" alt="Intro Animation" width="700"/>
+  <img src="img/main,jpg" alt="Intro Animation" width="700"/>
   <br><em>Dashboard</em>
 </p>
 
@@ -84,7 +84,6 @@ Designed with clean visuals and slicers, this dashboard helps stakeholders make 
 - Add **Profit and Revenue KPIs**
 - Include **Time of Day Analysis**
 - Add **Branch-wise Analysis** (if multi-branch)
-- Embed as a **Web Report (Power BI Service)**
 
 
 ## 👨‍💻 Contributors
