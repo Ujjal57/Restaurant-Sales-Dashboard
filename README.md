@@ -1,6 +1,6 @@
 # 🍽️ Restaurant Sales Dashboard - Power BI
 
-This interactive Power BI dashboard offers a comprehensive overview of restaurant sales between January 1, 2023 – December 31, 2024. It allows users to analyze key performance metrics such as total customers, orders, food category demand, delivery rates and payment preferences. 
+This interactive Power BI dashboard offers a comprehensive overview of restaurant sales between January 1, 2023 – December 31, 2024. It allows users to analyze key performance metrics such as total customers, orders, food category demand, delivery status and payment preferences. 
 
 The dashboard is built using **Power Query** for data transformation and **DAX** for creating calculated measures, ensuring accurate and insightful analytics.
 
