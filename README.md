@@ -6,7 +6,7 @@ Designed with clean visuals and slicers, this dashboard helps stakeholders make 
 
 ## 🔗 Live Power BI Dashboard
 
-Click the link below to **view the interactive Restaurant Sales Dashboard** (no login required):
+Click the link below to **view the interactive Restaurant Sales Dashboard** (Login Required):
 
 👉 [View Live Dashboard](https://app.powerbi.com/reportEmbed?reportId=ddbe231f-0ea6-4640-915f-586a7883c00a&autoAuth=true&ctid=474565c1-bca4-4295-a2f5-b0c7dbf2591c)
 
