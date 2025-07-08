@@ -102,4 +102,4 @@ Click the link below to **view the interactive Restaurant Sales Dashboard** (Log
 
 ## 👨‍💻 Contributors
 
-- **Ujjal Kumar Dey** – *Power BI Developer*
+- **Ujjal Kumar Dey** 
