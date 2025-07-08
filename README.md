@@ -4,6 +4,15 @@ This interactive Power BI dashboard offers a comprehensive overview of restauran
 
 Designed with clean visuals and slicers, this dashboard helps stakeholders make informed decisions about customer behavior, top-performing dishes, and operational efficiency.
 
+## 🔗 Live Power BI Dashboard
+
+Click the link below to **view the interactive Restaurant Sales Dashboard** (no login required):
+
+👉 [View Live Dashboard](https://app.powerbi.com/reportEmbed?reportId=ddbe231f-0ea6-4640-915f-586a7883c00a&autoAuth=true&ctid=474565c1-bca4-4295-a2f5-b0c7dbf2591c)
+
+> 📌 *This report is published via Power BI Service using "Website or portal" embed option and is read-only for viewers.*
+
+
 ## 📊 Key Features
 
 - 👥 Total Customers & Total Orders
